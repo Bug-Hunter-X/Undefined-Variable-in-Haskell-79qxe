@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Haskell programming: using an undefined variable.  The `bug.hs` file shows the erroneous code, which attempts to perform an arithmetic operation on an undefined value.  The `bugSolution.hs` file provides a corrected version, showcasing how to properly handle potential undefined values using pattern matching or maybe monad.
